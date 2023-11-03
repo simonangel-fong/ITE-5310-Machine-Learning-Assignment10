@@ -1,0 +1,7 @@
+env/
+winenv/
+# img/
+*.jpeg
+*.jpg
+*.png
+*.mp4
