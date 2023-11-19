@@ -1,7 +1,11 @@
 env/
 winenv/
-# img/
+data_label_image/
+data_source/
+datasets/test
+datasets/train
 *.jpeg
 *.jpg
 *.png
 *.mp4
+
