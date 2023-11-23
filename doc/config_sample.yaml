@@ -1,0 +1,9 @@
+# paths of train and val directories
+train: C:\Users\simon\iCloudDrive\Documents\Github\ITE-5310-Machine-Learning-Assignment10\datasets\train\images # train images
+val: C:\Users\simon\iCloudDrive\Documents\Github\ITE-5310-Machine-Learning-Assignment10\datasets\train\images # val images
+
+# number of classes
+nc: 1
+
+# names of classes
+names: ["car_plate"]

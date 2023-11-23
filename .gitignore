@@ -1,9 +1,8 @@
 env/
 winenv/
-data_label_image/
-data_source/
-datasets/test
-datasets/train
+data_label_image/* 
+data_source/*
+datasets/*
 *.jpeg
 *.jpg
 *.png
