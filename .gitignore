@@ -3,7 +3,7 @@ winenv/
 data_label_image/* 
 data_source/*
 datasets/*
-*.jpeg
+# *.jpeg
 # *.jpg
 # *.png
 *.mp4
