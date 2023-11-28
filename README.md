@@ -8,5 +8,4 @@ Project for Machine learning course, Humber ITS
   - [x] Split
   - [x] Configure
 
-- 1st Train
-  - 
+- Documents: /doc
